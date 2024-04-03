@@ -1,0 +1,5 @@
+[credential "https://git-codecommit.ap-south-1.amazonaws.com"]
+	provider = generic
+[user]
+	name = shahzad0685
+	email = shahzadali.0685@gmail.com
